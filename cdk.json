@@ -80,7 +80,7 @@
       "data_lake_glue_crawler_role" : "delta_lake_glue_crawler_role",
       "glue_crawler_name" : "delta_lake_glue_crawler_for_data_lake",
       "monthly_budget_usd" : 10,
-      "quicksight_and_alarm_email" :"elena.toshevska@miraclemill.com"
+      "quicksight_and_alarm_email" :"your-email@sample.com"
     }
   }
 }
